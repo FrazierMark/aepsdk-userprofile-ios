@@ -5,10 +5,10 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                         The Experience Platform UserProfile extension provides APIs that allow use of the custom client-side User Profile in the Adobe Experience Platform SDK.
                         DESC
-  s.homepage         = "https://github.com/adobe/aepsdk-userprofile-ios"
+  s.homepage         = "https://github.com/FrazierMark/aepsdk-userprofile-ios"
   s.license          = 'Apache V2'
   s.author           = "Adobe Experience Platform SDK Team"
-  s.source           = { :git => "https://github.com/adobe/aepsdk-userprofile-ios", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/FrazierMark/aepsdk-userprofile-ios", :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
   s.swift_version    = '5.1'
