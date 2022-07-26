@@ -3,7 +3,7 @@
 [![Cocoapods](https://img.shields.io/cocoapods/v/AEPUserProfile.svg?color=orange&label=AEPUserProfile&logo=apple&logoColor=white)](https://cocoapods.org/pods/AEPUserProfile)
 
 [![SPM](https://img.shields.io/badge/SPM-Supported-orange.svg?logo=apple&logoColor=white)](https://swift.org/package-manager/)
-[![Actions Status](https://github.com/adobe/aepsdk-userprofile-ios/workflows/Build/badge.svg)](https://github.com/adobe/aepsdk-userprofile-ios/actions)
+[![Actions Status](https://github.com/FrazierMark/aepsdk-userprofile-ios/workflows/Build/badge.svg)](https://github.com/adobe/aepsdk-userprofile-ios/actions)
 [![Code Coverage](https://img.shields.io/codecov/c/github/adobe/aepsdk-userprofile-ios/dev.svg?logo=codecov)](https://codecov.io/gh/adobe/aepsdk-userprofile-ios/branch/dev)
 
 ## About this project

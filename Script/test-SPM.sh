@@ -29,7 +29,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: \"AEPCore\", url: \"https://github.com/MarkFrazier/aepsdk-core-ios.git\", .branch(\"main\")),
+        .package(name: \"AEPCore\", url: \"https://github.com/FrazierMark/aepsdk-core-ios.git\", .branch(\"main\")),
         .package(name: \"AEPUserProfile\", path: \"../\")
     ],
     targets: [

@@ -20,7 +20,7 @@ let package = Package(
         .library(name: "AEPUserProfile", targets: ["AEPUserProfile"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/MarkFrazier/aepsdk-core-ios.git", .upToNextMajor(from: "3.0.0")),
+        .package(url: "https://github.com/FrazierMark/aepsdk-core-ios.git", .upToNextMajor(from: "3.0.0")),
     ],
     targets: [
         .target(name: "AEPUserProfile",
